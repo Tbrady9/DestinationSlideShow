@@ -25,7 +25,7 @@ New Slideshow Layout
 
 ### Objective and Requirements ###
 
-This is a slideshow app that displays destinations that can be ordered by their rating or alphabetically by their names. The user can choose the sorting option they prefer. The app was developed using Java coding language and the Eclipse IDE.
+This is a slideshow app that displays destinations that can be ordered by their rating or alphabetically by their names. The user can choose the sorting option they prefer. The app was developed using the Java coding language and the Eclipse IDE.
 
 ### Controls ###
 
