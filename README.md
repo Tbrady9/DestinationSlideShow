@@ -21,6 +21,16 @@ New Slideshow Layout
 ----
 ![image](https://github.com/user-attachments/assets/d9cf1cde-50d8-4f85-b6c0-822de302eff3)
 
+## Instructions ##
+
+### Objective and Requirements ###
+
+This is a slideshow app that displays destinations that can be ordered by their rating or alphabetically by their names. The user can choose the sorting option they prefer. The app was developed using Java coding language and the Eclipse IDE.
+
+### Controls ###
+
+After launching the slideshow, a new window will appear and display the first slide. To navigate throughout the slides, use the 'previous' or 'next' buttons. Sorting can be changed at any time by choosing a new option in the sorting dropdown box located between the navigation buttons.
+
 Course Outcomes Displayed
 ---
 ### Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. ###
